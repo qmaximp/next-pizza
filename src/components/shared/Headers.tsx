@@ -27,7 +27,7 @@ export const Headers: React.FC<Props> = ({ className }) => {
 				<div className='flex items-center gap-3'>
 					<Button variant='outline'>
 						<User size={16} />
-						Войтиb
+						Войти
 					</Button>
 					<div>
 						<Button className='group relative'>
